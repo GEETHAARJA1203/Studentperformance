@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R2
+Ridge Regression,3.3928,4.1928,0.1427
+Lasso Regression,3.3861,4.1935,0.1424
+Extra Trees Regressor,3.4353,4.4236,0.0457
+Support Vector Regression,3.353,4.0918,0.1835
