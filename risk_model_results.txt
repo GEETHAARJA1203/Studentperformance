@@ -1,0 +1,25 @@
+TREKVERSE STUDENT RISK PREDICTION RESULTS
+=============================================
+Records used: 120
+Accuracy: 0.8750
+Balanced accuracy: 0.8148
+
+Classification report:
+              precision    recall  f1-score   support
+
+        High       1.00      0.50      0.67         4
+         Low       0.67      1.00      0.80         2
+    Moderate       0.89      0.94      0.92        18
+
+    accuracy                           0.88        24
+   macro avg       0.85      0.81      0.80        24
+weighted avg       0.89      0.88      0.87        24
+
+
+Label order for confusion matrix:
+['High', 'Low', 'Moderate']
+
+Confusion matrix:
+[[ 2  0  2]
+ [ 0  2  0]
+ [ 0  1 17]]
