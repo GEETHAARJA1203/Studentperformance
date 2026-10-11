@@ -1,5 +1,10 @@
 Model,MAE,RMSE,R2
-Ridge Regression,3.3928,4.1928,0.1427
-Lasso Regression,3.3861,4.1935,0.1424
-Extra Trees Regressor,3.4353,4.4236,0.0457
-Support Vector Regression,3.353,4.0918,0.1835
+Ridge Regression,2.5563,3.1733,0.522
+CatBoost,3.2508,3.9,0.2779
+Lasso Regression,3.2602,3.9785,0.2486
+Gradient Boosting,3.3897,4.015,0.2347
+Random Forest,3.2544,4.0168,0.2341
+XGBoost,3.2872,4.0241,0.2313
+LightGBM,3.4521,4.2709,0.1341
+Extra Trees,3.6745,4.4332,0.067
+Support Vector Regression,4.0673,5.1017,-0.2356
